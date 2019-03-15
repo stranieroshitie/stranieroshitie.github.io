@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Derivative of common neural network modules"
-date:   2018-05-22 00:58:43 -0700
-categories: ML
+title: "HW1 Submission"
+date: 2019-03-14
 ---
 
 #### __Abstract__
