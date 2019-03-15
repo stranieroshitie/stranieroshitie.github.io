@@ -1,8 +1,7 @@
 ---
-title: "test"
-author: "ShiTie"
-date: "2019/3/15"
-output: pdf_document
+layout: post
+title: "Shi Tie, test2"
+date: 2019-03-15
 ---
 
 ```{r setup, include=FALSE}
