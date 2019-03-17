@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EventSudy(test2)"
+title: "test2"
 date: 2019-03-17
 ---
 
-{{site.baseurl}}/_posts/EventStudy.pdf
+{{site.baseurl}}/ta_review_session/session2.pdf
