@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ta review session 2"
+title: "TA Review Session 2"
 date: 2019-03-17
 ---
 
